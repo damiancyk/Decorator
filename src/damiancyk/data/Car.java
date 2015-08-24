@@ -2,7 +2,6 @@ package damiancyk.data;
 
 public class Car {
 
-	private int test=1;
 	private Long id;
 	private String name;
 
